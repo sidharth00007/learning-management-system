@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RupinVijan/Learning-Managment-System-MEN-STACK.git"
+    "url": "git+https://github.com/sidharth00007/learning-management-system.git"
   },
   "author": "Sidharth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RupinVijan/Learning-Managment-System-MEN-STACK/issues"
+    "url": https://github.com/sidharth00007/learning-management-system/issues"
   },
-  "homepage": "https://github.com/RupinVijan/Learning-Managment-System-MEN-STACK#readme",
+  "homepage": "https://github.com/sidharth00007/learning-management-system#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^6.0.12"
